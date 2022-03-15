@@ -1,0 +1,53 @@
+.body{
+    margin: 0%;
+}
+.site-header{
+background-color: rgb(16, 21, 31);
+padding: 20px 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.site-header_wraper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: rgb(219, 11, 11);
+    float: left;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.second{
+   background: url(index2.jpeg);
+    display: flex;
+    padding: 20px 10px;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.left-stuff{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.title-text{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    float:left;
+}
+.title-text{
+    float: left;
+    text-align: center;
+    padding: 20px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.signup{
+    width: 80px;
+}
+
